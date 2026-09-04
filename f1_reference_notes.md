@@ -1,137 +1,149 @@
-# Formula One — Comprehensive Reference Notes for Sports Article
+# Formula One — Reference Notes
 
-## Overview
+> Compiled from Wikipedia's "Formula One" article for background research on F1 history, rule changes, landmark eras, and milestones.
 
-Formula One (F1) is the highest class of worldwide racing for open-wheel, single-seater formula racing cars, sanctioned by the Fédération Internationale de l'Automobile (FIA) and run by the Formula One Group. The FIA Formula One World Championship has been one of the world's premier forms of motorsport since its inaugural running in **1950** and is widely considered the pinnacle of motorsport. The word *formula* in the name refers to the set of rules all participant cars must follow.
+## 1. Overview
 
-A Formula One season consists of a series of races, known as Grands Prix, held across multiple countries and continents on purpose-built circuits or closed public roads (street circuits). A points-scoring system determines two annual World Championships: one for drivers and one for constructors (teams).
+- **Full name:** FIA Formula One World Championship
+- **Governing body:** Fédération Internationale de l'Automobile (FIA)
+- **Commercial rights holder:** Liberty Media Corporation (acquired in 2017 for ~$8 billion; previously Bernie Ecclestone)
+- **Inaugural season:** 1950
+- **First race:** 1950 British Grand Prix at Silverstone Circuit, won by Giuseppe Farina (Alfa Romeo)
+- **Cars:** Open-wheel, single-seater, mid-engined, hybrid turbocharged V6 power units
+- **Chassis:** Carbon-fibre composites; minimum weight 800 kg (with driver)
+- **The "formula":** The set of rules all participant cars must follow — the word "formula" derives from this.
+
+## 2. Major Era & Landmark Milestones
+
+### 2.1 Origins & Early Years (1950–1957)
+- The World Championship began in 1950 after the formula was agreed upon in 1946.
+- **Giuseppe Farina** won the first Drivers' Championship (1950).
+- **Juan Manuel Fangio** won 5 championships (1951, 1954, 1955, 1956, 1957) — a record that stood for 46 years.
+- Fangio won 24 of 52 races entered — still the highest winning percentage by any driver.
+- The Constructors' Championship was added in **1958**.
+- Team Lotus introduced the **monocoque chassis** in 1962 — the greatest technological leap since mid-engined cars.
+- **Sponsorship entered F1 in 1968** — Gold Leaf on Lotus at the 1968 Spanish Grand Prix.
+
+### 2.2 Technological Revolution (Late 1960s–1970s)
+- **Aerodynamic downforce** appeared with aerofoils in 1968 (crafted by Colin Chapman on the Lotus 49B).
+- **Ground-effect aerodynamics** were pioneered by Lotus in the late 1970s, generating downforce up to 5× the car's weight.
+- **Mid-engined cars** became universal by 1961 (Ferguson P99, last front-engined car, entered 1961 British GP only).
+- **Turbocharged engines** were pioneered by Renault in 1977; by 1986 a BMW turbo produced over 1,300 bhp in qualifying.
+
+### 2.3 The Big-Business & Ecclestone Era (1970s–1990s)
+- **Bernie Ecclestone** bought Brabham in 1971, gained control of FOCA, and transformed F1's commercial model.
+- **Concorde Agreement** (1981): guaranteed technical stability; teams received notice of new regs.
+- Three more Concorde Agreements followed (1992, 1997, 2020).
+- **FISA–FOCA War (1979–1981):** conflict over TV revenues and regulations between FISA and FOCA.
+- **FIA banned ground-effect aerodynamics in 1983.**
+- **Turbocharged engines banned in 1989** after limits on fuel tank capacity (1984) and boost pressure (1988).
+- **Active suspension** debuted on the Lotus 92 (1983) and was perfected by 1987.
+- **Senna–Prost rivalry** dominated from 1988–1993.
+
+### 2.4 Safety Crisis & the Narrow-Track Era (1994–2000s)
+- **1994 San Marino GP:** Ayrton Senna and Roland Ratzenberger died in separate crashes.
+- After their deaths, the FIA used safety as justification to impose rules that would otherwise have required team agreement under the Concorde Agreement.
+- **Narrow-track era (1998+):** smaller rear tyres, narrower overall track, grooved tyres to reduce mechanical grip and cornering speeds.
+- **Electronic driver aids banned in 1994** (traction control, launch control, semi-automatic shifting). Briefly reintroduced in 2001, banned again in 2004, and finally banned in 2008.
+- No driver died from on-track injuries for 20 years until Jules Bianchi's fatal crash at the 2014 Japanese GP (he died July 2015).
+
+### 2.5 The Schumacher Era & 2000s Rule Changes
+- **Michael Schumacher** won 5 consecutive Drivers' Championships and 6 consecutive Constructors' Championships with Ferrari (2000–2004). His records (most wins, most titles) stood for years.
+- **Team orders banned in 2002** after Ferrari's manipulation at the 2002 Austrian GP.
+- **Tyre war** between Michelin and Bridgestone; the 2005 US GP saw 7 of 10 teams boycott Michelin-unsafe tyres.
+- **Bridgestone became sole tyre supplier** from 2007.
+- **Fernando Alonso** became the youngest champion at that time in 2005 (surpassed by Lewis Hamilton in 2008, then Sebastian Vettel in 2010).
+
+### 2.6 Manufacturer Decline & Privateer Rise (2008–2010)
+- Honda, BMW, and Toyota all withdrew within a year of each other (2008–2009) citing the economic recession.
+- **Brawn GP** (ex-Honda) won both championships in their debut season — a fairy-tale story.
+- **2010 FIA–FOTA dispute:** proposed budget cap caused standoff; teams threatened a breakaway series; resolved by new Concorde Agreement in August 2010.
+- Four new teams entered in 2010 (Lotus, Hispania, Virgin, US F1) — all struggled financially.
+
+### 2.7 The Hybrid Era (2014–present)
+- **2014 rule change:** 2.4L naturally aspirated V8 replaced by 1.6L turbocharged hybrid power units.
+- **Honda returned** as an engine manufacturer in 2015.
+- **Mercedes dominated** 2014–2020 (16 wins in 2014, 16 in 2015, 19 in 2016 — all records).
+- **$145 million budget cap** introduced in 2020 (reduced to $140M in 2022, then $135M for 2023–2025, then $215M operational + $130M PU cap for 2026+).
+- **COVID-19 pandemic** delayed 2020 season start; races ran behind closed doors; technical regs for 2021 pushed to 2022.
+- **2022 major regulation overhaul:** reintroduction of ground effects, redesigned wings, 18" low-profile tyres, wheel covers, barge board ban — to promote closer racing and reduce "dirty air" effects.
+- **Red Bull / Verstappen dominance** from 2022–2023.
+- **2021 title decider:** Verstappen beat Hamilton after a season-long battle.
+- **2024 changes:** Sauber briefly became Kick Sauber (Stake sponsorship); AlphaTauri became Visa Cash App RB (VCARB); Cadillac approved for 2026 as 11th team.
+- **New Concorde Agreement (2020):** signed by all 10 teams, running through 2025.
+
+## 3. Major Rule Changes Timeline
+
+| Year | Rule Change | Impact |
+|------|-------------|--------|
+| 1950 | First World Championship | Established the modern F1 calendar format |
+| 1958 | Constructors' Championship added | Introduced team-based title battle |
+| 1961 | Mid-engine cars universal | Fundamentally changed car design |
+| 1968 | Sponsorship introduced | Opened commercial possibilities |
+| 1981 | Concorde Agreement | Guaranteed technical stability and revenue sharing |
+| 1983 | Ground-effect aerodynamics banned | Reduced cornering speeds significantly |
+| 1984 | Fuel tank capacity limits | Curbing turbo engine power |
+| 1988 | Boost pressure limited to 4 bar | Further turbo power reduction |
+| 1989 | Turbocharged engines banned entirely | End of the turbo era; naturally aspirated V10s took over |
+| 1994 | Electronic driver aids banned (traction control, launch control, etc.) | Made cars more challenging to drive |
+| 1998 | Narrow-track cars, grooved tyres | Reduced mechanical grip; post-Senna safety reforms |
+| 2002 | Team orders banned | Prevented manipulation of race results |
+| 2008 | All electronic driver aids banned (second permanent ban) | Reinforced driver skill over technology |
+| 2014 | 2.4L V8 → 1.6L V6 turbo hybrid | Massive efficiency revolution; Honda returned |
+| 2020 | $145M cost cap (reduced to $135M by 2022) | Spending limits to close performance gap |
+| 2022 | Major aero overhaul: ground effects, 18" wheels, barge board ban | Designed to improve following and overtaking |
+| 2026 | New engine philosophy: 58/42 ICE-hybrid split, PU cost cap of $130M | Reducing battery harvesting; increasing ICE output |
+
+## 4. Key Historical Milestones
+
+- **1946:** Formula One formula agreed upon
+- **1947:** Formula officially effective
+- **1950:** First World Championship race (British GP, Silverstone)
+- **1958:** First Constructors' Championship
+- **1968:** First sponsorships appear in F1
+- **1977:** Renault pioneers turbocharged engines in F1
+- **1981:** First Concorde Agreement signed
+- **1989:** Turbocharged engines banned
+- **1994:** Senna and Ratzenberger deaths; first permanent driver-aid ban
+- **1996:** Active suspension perfected (Senna wins Monaco GP)
+- **2002:** Team orders banned after Ferrari controversy
+- **2005:** US GP boycott (7 teams refuse to race on Michelin tyres)
+- **2008:** Complete ban on electronic driver aids
+- **2014:** Hybrid turbo era begins
+- **2015:** Jules Bianchi's fatal crash → later VSC system introduction
+- **2017:** Liberty Media acquires F1 for $8B
+- **2020:** Hamilton ties Schumacher's 7-title record by season's end
+- **2021:** Verstappen finally beats Hamilton in title fight
+- **2022:** Ground-effect regulation shakeout; Red Bull dominance
+- **2022:** McLaren's cost-cap miracle — from back of grid to 2024 Constructors' Champions
+- **2024:** 23rd race on calendar (record season length)
+- **2026:** Cadillac joins as 11th team; new PU regulations
+
+## 5. Key Statistics & Records
+
+- **Most Drivers' Championships:** Michael Schumacher & Lewis Hamilton — 7 each
+- **Only posthumous World Champion:** Jochen Rindt (1970)
+- **Highest winning percentage:** Juan Manuel Fangio — 24/52 (46.2%)
+- **Most race wins:** Schumacher (91) & Hamilton (100+)
+- **Youngest race winner:** Max Verstappen (18 years, 228 days — Spain 2016)
+- **Youngest champion:** Sebastian Vettel (23 years, 134 days — 2010)
+- **Most Constructors' Championships:** Ferrari — 16
+- **Dominant season:** Mercedes 2016 — 19 wins out of 21 races
+- **Fastest speed recorded in a GP:** Juan Pablo Montoya — 372.6 km/h (2005 Italian GP)
+- **Fastest Qualifying speed:** Valtteri Bottas — 378 km/h (2016 European GP)
+- **UK drivers:** 21 championships among 11 drivers, 330+ wins (as of 2026)
+- **2024 season:** 24 races — highest ever in a single season
+- **Entry fee per team:** $500,000 + $5,000 per point scored
+
+## 6. Regulatory Framework
+
+- **Super Licence:** Required for drivers; highest FIA racing licence class
+- **Grade One tracks:** Required for all F1 circuits
+- **Concorde Agreement:** Series of binding agreements between FIA, FOM, and teams governing commercial rights and regulations
+- **Cost caps (2026+):** $215M operational + $130M power unit = $345M total framework
+- **Tyre compounds:** 3 dry compounds available per race; minimum 1 pit stop required; 2 different compounds must be used
+- **Engine limits:** 4 power units per driver per season; 1 gearbox per 6 races; grid penalties for exceeding limits
 
 ---
 
-## History & Evolution
-
-### Origins (1946–1950)
-- Formula One as a set of regulations was agreed upon in **1946** and officially became effective in **1947**.
-- The first Grand Prix under the new regulations was the **1946 Turin Grand Prix**.
-- The first FIA World Championship race, the **1950 British Grand Prix**, took place at **Silverstone Circuit** on 13 May 1950.
-- **Giuseppe Farina** (Alfa Romeo) won the first Drivers' World Championship, narrowly defeating his teammate **Juan Manuel Fangio**.
-
-### The Fangio Era (1950s–1957)
-- **Juan Manuel Fangio** won the championship in **1951, 1954, 1955, 1956, and 1957** — a record of **five World Championships** that stood for **46 years** until Michael Schumacher won his sixth in 2003.
-- Fangio won 24 of 52 races he entered — still the highest Formula One winning percentage by an individual driver.
-- **Stirling Moss**, often regarded as the greatest driver never to win a championship, finished second four times and third three times between 1955 and 1961.
-
-### Constructors' Championship Added (1958)
-- The **Constructors' Championship** was introduced in the **1958 season**, adding a team-based title.
-- Non-championship F1 races continued for many years but ended with the **1983 Race of Champions** at Brands Hatch.
-
----
-
-## Major Rule Changes — Timeline
-
-| Year | Rule Change | Rationale |
-|------|------------|-----------|
-| **1946–47** | Formula One regulations agreed and officially effective | Standardise rules for global championship |
-| **1950** | First World Championship season (7 races) | Establish formal premier racing series |
-| **1958** | Constructors' Championship introduced | Recognize team achievement alongside drivers |
-| **1981** | First Concorde Agreement signed | Guarantee technical stability; teams negotiate collectively via FOCA |
-| **1983** | Ground-effect aerodynamics banned | Safety concerns over extremely high cornering speeds |
-| **1984** | Fuel tank capacity limited | Reduce power output of turbocharged engines |
-| **1989** | Turbocharged engines banned entirely | Cap engine power; return to naturally aspirated engines |
-| **1992, 1997** | Second & third Concorde Agreements signed | Renew commercial & technical stability agreements |
-| **1994** | Traction control, launch control, automatic shifting banned | Restore driver skill as primary differentiator |
-| **1998** | Narrow track era; grooved tyres introduced | Reduce cornering speeds and improve safety |
-| **2002** | Team orders banned | Prevent manipulation of race results (e.g., 2002 Austrian GP) |
-| **2004, 2008** | Electronic driving aids permanently banned | Eliminate tech-dependent racing; ensure fair competition |
-| **2009** | Slick tyres reintroduced; double-diffusers allowed | Improve wet-weather racing and aerodynamics |
-| **2011** | DRS (drag reduction system) introduced | Promote overtaking |
-| **2014** | V8 replaced by 1.6L turbocharged hybrid V6 power units | Improve efficiency, reduce emissions, introduce hybrid tech |
-| **2017** | Halo cockpit protection device introduced | Driver head protection |
-| **2020** | New Concorde Agreement (to 2025); $145M budget cap introduced | Cost control; sustainable governance |
-| **2020–22** | COVID-related regulations; token system for car development | Allow seasons to proceed during pandemic |
-| **2022** | Major aerodynamic overhaul: ground-effect revival, 18" wheels, simplified wings | Promote closer racing by reducing "dirty air" |
-| **2026** | Operational cost cap: $215M; separate Power Unit Cost Cap: $130M; ICE-to-hybrid shift to 58/42 | Comprehensive cost control; increase ICE output |
-| **2027** | ICE-to-hybrid shift to 60/40; max ICE output 450 kW | Further increase ICE contribution for performance |
-
----
-
-## Landmark Eras
-
-### 1. The Turbo Era (1977–1989)
-- Renault pioneered turbocharged engines in **1977**.
-- By **1986**, a BMW turbo achieved ~**1,300 bhp** in qualifying; race power reached ~1,100 bhp.
-- These were the most powerful open-wheel circuit racing cars ever.
-- **Regulatory response**: Fuel limits (1984), boost limits (1988), turbo ban (1989).
-
-### 2. The Senna–Prost Rivalry & Safety Crisis (1988–1994)
-- Central narrative of late-1980s/early-1990s F1.
-- Japanese GP tragedies of **1994**: Ayrton Senna and Roland Ratzenberger killed.
-- Prompted immediate FIA safety intervention, bypassing the Concorde Agreement.
-
-### 3. The Narrow Track / Grooved Tyre Era (1998–2008)
-- Smaller rear tyres, narrower overall track, four-grooved tread patterns.
-- Intended to reduce cornering speeds and create "rain-race" racing conditions.
-- Electronic driving aids were also a major theme during this period.
-
-### 4. The Schumacher / Ferrari Dynasty (1994–2004, 2010–2012)
-- **5 consecutive Drivers'** and **6 consecutive Constructors' Championships** (1999–2004).
-- Schumacher set records for most Grand Prix wins, most wins in a season, and most titles (7).
-- Team orders ban (2002) after Ferrari manipulated the 2002 Austrian GP.
-- Alonso became youngest champion in 2005 (record broken by Hamilton 2008, Vettel 2010).
-
-### 5. The Manufacturer Exodus & Privateer Return (2008–2010)
-- Honda, BMW Sauber, and Toyota all withdrew in 2008–2009 due to the economic recession.
-- **Brawn GP** (ex-Honda) won both championships in its debut season via management buyout.
-- Four new teams entered in 2010 (Team Lotus, Hispania, Virgin, US F1) to populate the grid.
-
-### 6. The Hybrid Turbo Era (2014–Present)
-- 2014: V8 → 1.6L turbo hybrid V6; Honda returns; Mercedes dominates.
-- 2016: Verstappen becomes youngest race winner (age 18).
-- 2021: Verstappen vs. Hamilton — closest championship battle ever.
-- 2022: Major car redesign with ground-effect aero; Red Bull dominance begins.
-- 2024: Stake entry; VCARB rebrand; Cadillac approved for 2026.
-
----
-
-## Key Historical Milestones
-
-| Milestone | Details |
-|-----------|---------|
-| **1950** | First World Championship season (7 races, all in Europe) |
-| **1957** | Fangio's record 5th title (unbroken for 46 years) |
-| **1958** | Constructors' Championship established |
-| **1961** | Mid-engined cars become universal |
-| **1962** | Monocoque chassis (Lotus) replaces space-frame |
-| **1968** | Sponsorship & aerodynamic wings debut |
-| **1977** | Renault pioneers turbocharged engines |
-| **1981** | First Concorde Agreement |
-| **1994** | Senna & Ratzenberger deaths; safety overhaul begins |
-| **1998** | Narrow track / grooved tyre era begins |
-| **2003** | Schumacher breaks Fangio's record (6th title in same year) |
-| **2008** | Electronic aids permanently banned |
-| **2014** | Turbo-hybrid era begins; Honda returns as power-unit maker |
-| **2016** | Max Verstappen youngest race winner in history |
-| **2017** | Liberty Media acquires F1 for $8 billion; halo device introduced |
-| **2020** | COVID-19 pandemic; $145M budget cap agreed |
-| **2021** | Verstappen defeats Hamilton in closest-ever title fight |
-| **2022** | Major aero regulations; Red Bull begins dominant run |
-| **2024** | Stake F1 Team debuts; 11th team (Cadillac) approved for 2026 |
-
----
-
-## Important Facts & Quick Reference
-
-- **Most Drivers' Championships**: Michael Schumacher & Lewis Hamilton — **7 each**.
-- **Most Constructors' Championships**: Ferrari — **16 titles**.
-- **Highest win percentage**: Fangio — 46.2% (24/52).
-- **Most wins in a season**: Max Verstappen — **19 wins** (2023).
-- **Youngest race winner**: Max Verstappen — 18 years, 228 days (2016 Spanish GP).
-- **Fastest speed (qualifying)**: Valtteri Bottas — **378 km/h** (2016 European GP).
-- **Fastest speed (race)**: Juan Pablo Montoya — **372.6 km/h** (2005 Italian GP).
-- **Most championships by UK drivers**: 21 titles, 11 drivers, 330+ wins.
-- **Cost cap**: $215 million operational (2026+); $130 million power unit cap (2026+).
-- **2025 calendar**: 24 Grands Prix — the largest in history.
-- **Environmental goal**: Carbon neutral by 2030; E10 fuel currently used.
-- **10 of 11 teams** based in Motonsport Valley, Oxfordshire; **Ferrari** is all-Italian (Maranello).
-- **Entry fee**: $500,000 + $5,000 per point scored.
-- **Super Licence fee**: €10,000 + €1,000 per point.
+*Research compiled from the Wikipedia article "Formula One" for use in the sports-article-drafts repository.*
