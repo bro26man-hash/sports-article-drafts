@@ -8,9 +8,9 @@
 - **What it is:** Formula One (F1) is the highest class of worldwide racing for open-wheel, single-seater formula racing cars, run by the Formula One Group and sanctioned by the Fédération Internationale de l'Automobile (FIA).
 - **The "formula":** The name refers to the set of rules all participant cars must follow.
 - **Inaugural season:** 1950 — the FIA Formula One World Championship has been one of the world's premier forms of motorsport since then and is widely considered the pinnacle of motorsport.
+- **Origins:** Formula One originated from the World Manufacturers' Championship (1925–1927) and European Drivers' Championship (1931–1939). The formula was agreed upon in 1946 to become effective in 1947; the first GP under the new regulations was the 1946 Turin Grand Prix.
 - **First race:** 1950 British Grand Prix at Silverstone Circuit (13 May 1950), won by Giuseppe Farina (Alfa Romeo).
-- **Championships:** A points-scoring system determines two annual World Championships — one for drivers, one for constructors (teams). Drivers must hold a valid Super Licence; races are held on Grade One tracks.
-- **Commercial ownership:** Long controlled by Bernie Ecclestone, then acquired by Liberty Media Corporation in 2017 for an estimated $8 billion. Liberty added five Grands Prix: Miami, Las Vegas, Saudi Arabia, Qatar, and Dutch.
+- **Championships:** A points-scoring system determines two annual World Championships — one for drivers, one for constructors (teams). Drivers must hold a valid Super Licence; races are held on Grade One tracks. Commercial rights were long controlled by Bernie Ecclestone before Liberty Media acquired them in 2017 for ~$8 billion.
 - **Geographic hub:** The United Kingdom is the centre of F1, with six of eleven teams based there ("Motorsport Valley", Oxfordshire). Ferrari is the exception, based in Maranello, Italy.
 - **Car technology:** Modern cars are mid-engined, hybrid, semi-open-cockpit, open-wheel single-seaters with carbon-fibre chassis (min. weight 800 kg including driver). They generate massive aerodynamic downforce via wings and ground-effect underbody tunnels, and are limited by engine/electronics rules.
 - **Recent direction:** FIA aims for closer racing via ground-effect aerodynamics, larger 18-inch wheels, revised wings, and cost caps. Environmental target: carbon neutral by 2030; E10 fuel from 2021, with sustainable fuel planned for 2025/2026.
@@ -25,16 +25,16 @@
 | 1984 | Fuel tank capacity limited | Reduce turbo engine power/speeds |
 | 1988 | Boost pressure limited | Further cap turbo output |
 | 1989 | Turbocharged engines banned entirely | Return to naturally aspirated engines |
-| 1994 | Ban on electronic driver aids (traction control, launch control, semi-automatic shifting) | Technology was deciding races more than driver skill; reinforced after Senna/Ratzenberger deaths |
+| 1994 | Ban on electronic driver aids (traction control, launch control, semi-automatic shifting) | Technology deciding races more than driver skill; reinforced after Senna/Ratzenberger deaths |
 | 1998 | "Narrow-track" era: smaller rear tyres, narrower track, grooved tyres | Reduce cornering speeds and make racing more like wet conditions, post-safety crisis |
 | 2002 | Team orders banned | Negative publicity from teams manipulating results (e.g., Ferrari, Austrian GP) |
 | 2004–2008 | Electronic aids re-banned (2004, 2008) | Continued push to keep driver skill central |
-| 2007 | Single tyre supplier (Bridgestone) | After Michelin tyre failure at 2005 US GP; performance-related engine development also banned |
+| 2007 | Single tyre supplier (Bridgestone) | After Michelin failure at 2005 US GP; performance-related engine development banned |
 | 2009 | Optional budget cap & flexible wings proposed | FIA–FOTA dispute over cost-cutting; resolved via new Concorde Agreement |
 | 2014 | Engines changed from 2.4L NA V8 to 1.6L turbo hybrid V6 | Major power-unit regulation shift; ushered in hybrid era |
 | 2017–2018 | Revised aerodynamic regulations | Promoted closer racing; wider cars, more downforce |
 | 2020 | New Concorde Agreement; $145M budget cap for car development | Equal competition, sustainable development; all 10 teams signed |
-| 2021 | Halo mandatory; revised points (gradual-scale) for shortened races | Safety (after Bianchi); fairer points for interrupted races |
+| 2021 | Halo made mandatory; revised points (gradual-scale) for shortened races | Safety (after Bianchi); fairer points for interrupted races |
 | 2022 | Major car design: ground effects, larger low-profile wheels, redesigned wings/nose, bargeboard ban | Promote close following/racing by reducing "dirty air" loss of downforce |
 | 2026 | Cost cap restructured to $215M base + $130M Power Unit cap | Comprehensive financial perimeter amid new hybrid power-unit cycle |
 
@@ -50,34 +50,31 @@
 
 ## Important Historical Milestones
 
-- **1950:** F1 World Championship inaugurated; first race at Silverstone, won by Giuseppe Farina.
-- **1951–1957:** Juan Manuel Fangio wins 5 World Championships (record for 46 years).
-- **1958:** First Constructors' Championship season.
-- **1961:** All teams switch to mid-engined cars; first use of monocoque chassis (1962, Lotus).
-- **1968:** Sponsorship debut (Gold Leaf on Team Lotus, Spanish GP); aerodynamic wings introduced (Chapman, Monaco GP).
+- **1946:** Formula agreed upon; first GP held under new regulations (Turin).
+- **1950:** First World Championship race — British Grand Prix at Silverstone (13 May); Giuseppe Farina becomes first champion.
+- **1951–1957:** Juan Manuel Fangio wins 5 titles, including 4 consecutive (1954–57); holds record for 46 years.
+- **1958:** Constructors' Championship added; Stirling Moss famously never wins the title despite being regarded as one of the greatest.
+- **1961:** All teams switch to mid-engined cars; Bugatti's midship layout proven superior by Jack Brabham.
+- **1962:** Lotus introduces aluminium-sheet monocoque chassis — greatest breakthrough since mid-engined layout.
+- **1968:** Sponsorship debuts (Team Gunston, then Lotus); aerodynamic wings introduced by Colin Chapman at Monaco.
+- **Late 1970s:** Lotus introduces ground-effect aerodynamics; cars generate downforce up to 5× their weight.
 - **1977:** Renault pioneers turbocharged engines in F1.
-- **1981:** First Concorde Agreement; end of FISA–FOCA war.
+- **1979–1981:** FISA–FOCA war; resolved by the first Concorde Agreement (1981).
 - **1983:** Last non-championship F1 race (Race of Champions, Brands Hatch).
-- **1986:** BMW turbo produces ~1,300 bhp in qualifying — most powerful open-wheel cars ever.
-- **1994:** Fatal crashes of Ayrton Senna and Roland Ratzenberger at San Marino GP; major safety-driven rule changes follow.
-- **1996:** First F1 night race — Singapore GP.
-- **2002:** Team orders banned after Ferrari controversy at Austrian GP.
-- **2005:** Renault/Michelin crisis at Indianapolis US GP (7 of 10 teams don't race); leads to single tyre supplier.
-- **2006:** Fernando Alonso becomes youngest champion at the time; Schumacher briefly retires.
-- **2014:** Jules Bianchi's fatal crash leads to creation of the Virtual Safety Car (debuts 2015 Monaco GP); hybrid power units introduced.
-- **2014–2016:** Mercedes dominance; Max Verstappen becomes youngest ever race winner (18, Spain 2016).
-- **2020:** New Concorde Agreement signed; $145M car-development budget cap introduced; COVID-19 forces calendar/logistical adaptations.
-- **2021:** Close-wheel racing overhaul; Halo made mandatory; Red Bull ends Mercedes dominance; Verstappen wins first title.
-- **2022:** Major car-design rule change (ground effects, 18" wheels, revised wings); Red Bull dominance begins.
-- **2026 (planned):** Cadillac joins as 11th team; restructured cost caps ($215M + $130M PU cap); new hybrid power-unit cycle with sustainable fuel.
+- **1987:** Ayrton Senna wins Monaco in Lotus with active suspension.
+- **1994:** Tragic deaths of Ayrton Senna and Roland Ratzenberger at San Marino GP; turning point for safety.
+- **2002:** Team orders banned after Ferrari manipulates Austrian GP result.
+- **2005:** Seven of ten teams withdraw from US GP at Indianapolis over unsafe Michelin tyres.
+- **2006:** Fernando Alonso becomes youngest champion (then) for Renault; ends Schumacher's streak.
+- **2008 & 2009:** Honda, BMW, and Toyota withdraw — end of manufacturer dominance; Brawn GP rises and wins the title.
+- **2014:** Hybrid era begins — 1.6L turbo hybrid V6 replaces 2.4L V8; Mercedes dominance starts.
+- **2015:** Jules Bianchi dies from injuries at Japanese GP; prompts Virtual Safety Car introduction (2015 Monaco).
+- **2016:** Max Verstappen becomes youngest-ever race winner (age 18) at Spanish GP.
+- **2021:** Season-long Hamilton vs. Verstappen battle; Red Bull ends Mercedes dominance.
+- **2022:** Major ground-effect aerodynamic overhaul; Red Bull takes multi-year title dominance.
+- **2024:** Sponsorship/signing reshuffle (Sauber→Stake→slot to become Audi works for 2026; AlphaTauri→Visa Cash App RB).
+- **2025–2026:** Cadillac approved as 11th team for 2026; new Concorde Agreement through 2025 with $145M cap.
 
-## Quick Reference — Current Regulations (2026)
+---
 
-- **Cost cap (car development):** US$215M (base, restructured); **Power Unit cost cap:** US$130M
-- **Engines:** 1.6L turbo hybrid V6 (hybrid power units)
-- **Cars:** Mid-engined, open-wheel, single-seater; carbon-fibre; min. weight 800 kg (incl. driver)
-- **Tyres:** Supplied by Pirelli (slick since 2009); 3 dry compounds available per race
-- **Races per 2024 season:** 24 (the highest ever); Grands Prix on purpose-built circuits and street circuits
-- **Points (since 2010):** Winner gets 25 (top 10 score); full points unless race distance < threshold then gradual-scale (from 2022)
-- **Qualifying (2026):** Knock-out Q1/Q2/Q3 with 22 cars on grid
-- **Safety:** Virtual Safety Car (since 2015), halo (since 2018), safety car (Mercedes AMG / Aston Martin Vantage)
+*Sources: Compiled from the Wikipedia article "Formula One" (History, Cars and technology, Cost cap, and related sections) and its summarized content. See the live article for the latest calendar and regulation updates.*
