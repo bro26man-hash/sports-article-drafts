@@ -181,7 +181,7 @@ The commercial rights were later acquired by **Liberty Media Corporation in 2017
 | **Late 1950s** | Mid-engine revolution — Bugatti introduces mid-engined cars; Brabham proves superiority; all teams switch by 1961 |
 | **1961** | Ferguson P99 — last front-engined F1 car in a championship race |
 | **1962** | Aluminium-sheet monocoque chassis introduced by Lotus |
-| **1968** | Sponsorship引入; aerofoils/wings first appear; rear spoilers |
+| **1968** | Sponsorship introduced; aerofoils/wings first appear; rear spoilers |
 | **Late 1970s** | Ground-effect aerodynamics (Lotus); downforce up to 5× car's weight |
 | **1977** | Renault pioneers turbocharged engines |
 | **1983** | Active suspension introduced (Lotus 92); perfected by 1987 |
