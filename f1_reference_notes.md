@@ -50,7 +50,7 @@ Formula One (F1) is the highest class of worldwide racing for open-wheel, single
 
 ### The Schumacher Dynasty (1990s-2006)
 
-- **Michael Schumacher** and **Ferrari** won **five consecutive Drivers' Championships** (1994-2004: actually 5 drivers' titles 2000-2004) and **six consecutive Constructors' Championships** (1999-2004).
+- **Michael Schumacher** and **Ferrari** won **five consecutive Drivers' Championships** (2000-2004) and **six consecutive Constructors' Championships** (1999-2004).
 - Schumacher set many new records: Grand Prix wins, wins in a season, and most Drivers' Championships (7, tied with Hamilton).
 - Schumacher's championship streak ended on **25 September 2005** when Renault driver **Fernando Alonso** became champion (then the youngest; since surpassed by Hamilton in 2008 and Vettel in 2010).
 - Schumacher retired at the end of 2006 after 16 years, but came out of retirement for 2010, racing for the newly formed Mercedes works team (following the rebrand of Brawn GP).
@@ -150,6 +150,21 @@ Formula One (F1) is the highest class of worldwide racing for open-wheel, single
 
 ---
 
+## The Regulatory Cycle — A Thematic Lens
+
+F1 history follows a recurring pattern: **innovation → dominance → regulation → reset**. Each era's defining technology was eventually regulated to maintain competition and emphasize driver skill over engineering budget:
+
+1. **Mid-engine dominance** (1961) → standardized layout, killed front-engine design
+2. **Ground effect** (late 1970s) → banned in 1982/83 due to fatal accidents and extreme speeds
+3. **Turbo era** (1977-1989) → progressively restricted, then banned outright
+4. **Electronic driver aids** (early 1990s) → banned 1994, briefly returned 2001, banned again 2004/2008
+5. **Team orders** → legal since 1950, banned 2002 after Ferrari's deliberate crash at the Austrian GP
+6. **Hybrid complexity** (2014+) → cost cap introduced to prevent engineering budget from determining outcomes
+
+This cycle is a central narrative thread for any F1 background piece — the sport constantly grapples with the tension between technological progress and competitive parity.
+
+---
+
 ## Commercial Landscape
 
 - **Liberty Media** acquired commercial rights in **2017 for approximately $8 billion** (previously owned by Bernie Ecclestone).
@@ -161,10 +176,21 @@ Formula One (F1) is the highest class of worldwide racing for open-wheel, single
   - 2024-2025: $135M
   - 2026+: **$215M** (restructured to absorb previously excluded expenditures, creating a comprehensive financial perimeter)
 - **Power Unit Cost Cap**: $130M (separate, parallel cap introduced 2026 to regulate power-unit manufacturers).
-- **Team entry fee**: $450 million up-front payment to the FIA for new teams (shared equally among existing teams).
+- **Team entry fee**: $500,000 plus $5,000 per point scored the previous year (or $6,000 for Constructors' Champion); new teams pay $450M up-front (shared equally among existing teams).
+- **Super Licence fee**: €10,000 + €1,000 per point (as of 2013).
 - Criticism: The cost cap excludes driver salaries, compensation for the three highest-paid staff members, and marketing costs — meaning it may not fully close the competitive gap.
 - Notable success story within the cap: McLaren went from slowest car mid-2023 to fastest on the grid by 2024, winning the Constructors' Championship.
 
 ---
 
-*Sources: Wikipedia — Formula One article (History, Technological developments, Big business, Manufacturers' return, Manufacturers' decline and return of the privateers, Hybrid era, Cars and technology, Revenue and profits sections).*
+## Future Outlook
+
+- **Environmental impact**: F1 targets carbon neutrality by **2030**; E10 fuel (10% ethanol) from 2021; **100% sustainable fuel** planned for 2025/2026 when new engine regulations come into force.
+- **Engine regulations 2026+**: New power-unit cycle with hybrid split shifting from 53/47 → 58/42 (2027) → 60/40 (2028), increasing max ICE output to 450kW. Feedback from drivers about energy management challenges led to these amendments.
+- **2026 grid**: 11 teams with **Cadillac** joining; **Audi** takes over Sauber for 2026; **VCARB** (ex-AlphaTauri) rebranded.
+- **Concorde Agreement**: All 10 teams signed through **2025** (signed August 2020); new agreement needed for 2026+ regarding prize money and TV revenue distribution.
+- **Apple TV+** acquired US rights from ESPN ahead of the **2025 United States Grand Prix** — a landmark shift in US broadcasting.
+
+---
+
+*Sources: Wikipedia — Formula One article (comprehensive review of History, Technological developments, Big business, Manufacturers' return, Manufacturers' decline and return of the privateers, Hybrid era, Cars and technology, Revenue and profits, Future, Environmental impact, and Media coverage sections).*
