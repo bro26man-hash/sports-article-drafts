@@ -6,7 +6,7 @@
 
 ## 1. History & Evolution – Focused Summary
 
-Formula One (F1) is the highest class of worldwide racing for open-wheel, single-seater formula racing cars, sanctioned by the Federation Internationale de l'Automobile (FIA). The FIA Formula One World Championship has been one of the world's premier forms of motorsport since its inaugural running in 1950 and is often considered the pinnacle of motorsport.
+Formula One (F1) is the highest class of worldwide racing for open-wheel, single-seater formula racing cars, sanctioned by the Fédération Internationale de l'Automobile (FIA). The FIA Formula One World Championship has been one of the world's premier forms of motorsport since its inaugural running in 1950 and is often considered the pinnacle of motorsport.
 
 The word **formula** in the name refers to the set of rules all participant cars must follow. A Formula One season consists of a series of races known as Grands Prix, which take place in multiple countries and continents on either purpose-built circuits or closed public roads (street circuits).
 
@@ -59,7 +59,7 @@ The commercial rights to F1 were long controlled by British business magnate **B
   - These tragedies prompted sweeping safety reforms.
 - The **1994 season** also saw the introduction of disadvantaging rules: electronic driving aids (traction control, launch control, automatic shifting) were **banned for the first time**.
 
-### Calgary / Schumacher Era & Rule Standardization (1990s–2000s)
+### Schumacher Era & Rule Standardization (1990s–2000s)
 - **Michael Schumacher** rose to dominance with Ferrari, winning 5 consecutive World Championships (2000–2004).
 - Electronic aids were **briefly reintroduced in 2001** but were **banned once more in 2004 and again in 2008**.
 - The **FIA** introduced standardized engine regulations (3.0L V10, then V8) to control costs and close the performance gap between top teams and smaller outfits.
@@ -110,7 +110,7 @@ The commercial rights to F1 were long controlled by British business magnate **B
 | **Mid-Engine Revolution** | 1958–1968 | Switch to mid-engined layout, monocoque chassis, rear-engine design |
 | **Aerodynamic Awakening** | 1968–1982 | Introduction of wings and ground-effect, sponsorship begins |
 | **Turbo & Electronic Aids** | 1982–1994 | Turbocharged engines, active suspension, Senna/Prost era |
-| **Senna/Rattenberger Tragedy & Reform** | 1994–1995 | Deaths of Senna & Ratzenberger, safety overhaul, electronic aids banned |
+| **Senna/Ratzenberger Tragedy & Reform** | 1994–1995 | Deaths of Senna & Ratzenberger, safety overhaul, electronic aids banned |
 | **Schumacher Dominance** | 1994–2004 | Ferrari golden era, 5 straight titles, standardized engines |
 | **Hybrid Era** | 2014–Present | V6 turbo-hybrid power units, energy recovery, budget cap |
 | **Ground-Effect Renaissance** | 2022–Present | Return of ground-effect floors, improved following cars |
@@ -122,7 +122,7 @@ The commercial rights to F1 were long controlled by British business magnate **B
 - **1946** – International Formula formalised; first post-war Grand Prix held at Turin.
 - **1950** – First FIA World Championship race at Silverstone (British GP).
 - **1954** – Fangio leaves Alfa Romeo for Mercedes; wins 4 more titles.
-- **1958** – First Constructors' Championship;托尼·布鲁克斯 becomes first British World Champion.
+- **1958** – First Constructors' Championship; Tony Brooks becomes first British World Champion.
 - **1961** – Phil Hill (Ferrari) becomes first American World Champion; mid-engine revolution complete.
 - **1962** – Lotus introduces monocoque chassis — the biggest tech leap since mid-engined cars.
 - **1967** – Ford-Cosworth DFV engine debuts and becomes the most successful engine in F1 history.
@@ -133,18 +133,18 @@ The commercial rights to F1 were long controlled by British business magnate **B
 - **1984** – Niki Lauda's comeback season; wins title by half a point over Alain Prost — closest title in history.
 - **1988** – Senna/Prost title battle (Senna wins 8 of 16 races but loses title by half a point).
 - **1991** – Michael Schumacher's F1 debut with Jordan.
-- **1994** — Deaths of Senna & Ratzenberger; season cancelled after Imola; sweeping safety reforms begin.
-- **1996** — Jacques Villeneuve wins title in rookie year.
-- **2000–2004** — Schumacher wins 5 consecutive titles; Ferrari's dominant era.
-- **2005** — Fernando Alonso becomes youngest champion at the time; Schumacher retires mid-season.
-- **2007** — Lewis Hamilton debuts and nearly wins title in rookie year.
-- **2008** — Hamilton wins title by 1 point over Massa; ICT担忧 about tyre safety lead to regulations.
-- **2010** — Red Bull and Sebastian Vettel begin dominance.
-- **2014** — Hybrid era begins; Mercedes dominates for 8 seasons.
-- **2020** — Hamilton ties Schumacher's 91 wins, then surpasses him in 2021.
-- **2021** — Max Verstappen wins title on final lap of final race (Abu Dhabi); controversial safety car period.
-- **2022** — Ground-effect cars introduced; Red Bull and Verstappen dominate.
-- **2024** — McLaren's Oscar Piastri wins title; Red Bull dominance ends; Verstappen leaves for...
+- **1994** – Deaths of Senna & Ratzenberger; season overshadowed by tragedy; sweeping safety reforms begin.
+- **1996** – Jacques Villeneuve wins title in rookie year.
+- **2000–2004** – Schumacher wins 5 consecutive titles; Ferrari's dominant era.
+- **2005** – Fernando Alonso becomes youngest champion at the time; Schumacher retires mid-season.
+- **2007** – Lewis Hamilton debuts and nearly wins title in rookie year.
+- **2008** – Hamilton wins title by 1 point over Massa; concerns about tyre safety lead to regulations.
+- **2010** – Red Bull and Sebastian Vettel begin dominance.
+- **2014** – Hybrid era begins; Mercedes dominates for 8 seasons.
+- **2020** – Hamilton ties Schumacher's 91 wins, then surpasses him in 2021.
+- **2021** – Max Verstappen wins title on final lap of final race (Abu Dhabi); controversial safety car period.
+- **2022** – Ground-effect cars introduced; Red Bull and Verstappen dominate.
+- **2024** – McLaren's Oscar Piastri wins title; end of Red Bull dominance; Verstappen departs for Honda.
 
 ---
 
@@ -154,7 +154,7 @@ The commercial rights to F1 were long controlled by British business magnate **B
 |------|---------------------|
 | **Juan Manuel Fangio** | 5-time champion; record winning percentage; dominated the 1950s |
 | **Ayrton Senna** | 3-time champion; widely regarded as the greatest naturally gifted driver; died 1994 |
-| **Michael Schumacher** | 7-time champion; transformed the sport in the 2000s; most wins (91) until Hamilton |
+| **Michael Schumacher** | 7-time champion; transformed the sport in the 2000s; held record for most wins (91) until Hamilton |
 | **Lewis Hamilton** | 7-time champion; most race wins, pole positions, and podiums in F1 history |
 | **Bernie Ecclestone** | Controlled F1 commercial rights for 40+ years; built F1 into a global business |
 | **Colin Chapman** | Founder of Lotus; pioneered monocoque chassis, ground-effect, and sponsor livery |
@@ -169,8 +169,8 @@ The commercial rights to F1 were long controlled by British business magnate **B
 - **Pre-1970s**: Teams and organisers negotiated individually; no central commercial authority.
 - **1970s–2000s**: Bernie Ecclestone consolidated commercial rights through FOCA and the Concorde Agreements.
 - **2017**: Liberty Media acquired F1's commercial rights for ~$8 billion.
-- **Post-2017**: Liberty added new races (Miami, Las Vegas, Saudi Arabia, Qatar,Netherlands), expanded digital streaming, and pursued broader global audiences.
-- **Cost Cap (2021–)**: Introduced to reduce预算 imbalance between top and midfield teams; currently $215M for 2026.
+- **Post-2017**: Liberty added new races (Miami, Las Vegas, Saudi Arabia, Qatar, Netherlands), expanded digital streaming, and pursued broader global audiences.
+- **Cost Cap (2021–)**: Introduced to reduce financial imbalance between top and midfield teams; currently $215M for 2026.
 
 ---
 
