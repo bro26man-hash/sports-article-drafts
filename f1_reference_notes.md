@@ -31,7 +31,7 @@ The word *formula* in the name refers to the strict set of rules all participant
 - The era was marked by dramatic races, legendary rivalries (Senna vs. Piquet), and increasing danger (the 1994 San Marino weekend remains a watershed moment).
 - **1989**: The FIA banned turbos, forcing a return to naturally aspirated engines.
 
-### The V8 & V10 naturally aspirated era (1989–2005)
+### The V8 & V10 Naturally Aspirated Era (1989–2005)
 - Naturally aspirated engines returned, with displacement limits eventually settling at 3.0L.
 - The 1990s featured intense rivalry between Senna, Prost, Schumacher, and Hakkinen.
 - **Michael Schumacher's** dominance with Ferrari (2000–2004) reshaped the sport's competitive landscape.
@@ -94,7 +94,7 @@ The word *formula* in the name refers to the strict set of rules all participant
 
 - **1950**: Inaugural F1 World Championship at Silverstone — Giuseppe Farina takes the title.
 - **1958**: First Constructors' Championship introduced; Mike Hawthorn becomes first Drivers' Champion.
-- **1961**: Rear-engine revolution begins after Ferrari's shift;规则 changes follow tragic 1961 Monza crash (Phil Hill vs. von Trips).
+- **1961**: Rear-engine revolution begins after Ferrari's shift; tragic 1961 Monza crash (Phil Hill vs. von Trips).
 - **1967**: Ford Cosworth DFV V8 debuts — goes on to win 155 Grands Prix.
 - **1975**: Niki Lauda's first championship; Ferrari returns to dominance.
 - **1976**: Lauda's near-fatal Nürburgring crash and dramatic comeback to finish second in the title fight.
@@ -115,7 +115,7 @@ The word *formula* in the name refers to the strict set of rules all participant
 - **2017–2018**: Hamilton dominates; Vettel's Ferrari challenge falls short.
 - **2020**: Hamilton ties Schumacher's 7-win record in a season.
 - **2021**: Verstappen wins first title in dramatic season finale; Hamilton denied 8th title on final lap.
-- **2022**: Ground-effect cars return; Verstappen dominant; Leclier and Red Bull clash.
+- **2022**: Ground-effect cars return; Verstappen dominant; Leclerc and Red Bull clash.
 - **2023–2025**: Verstappen/Red Bull continued dominance; new engine regulations for 2026 announced.
 - **2017**: Liberty Media acquires commercial rights for **$8 billion** from Bernie Ecclestone — ushers in new commercial era.
 
