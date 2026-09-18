@@ -1,52 +1,45 @@
 # Formula One — Reference Notes
 
-*Compiled for background piece on F1 racing history and evolution*
+*Compiled from Wikipedia research for background piece on F1 racing.*
 
 ---
 
 ## Overview
 
-Formula One (F1) is the highest class of worldwide racing for open-wheel, single-seater formula racing cars, run by the Formula One Group and sanctioned by the Fédération Internationale de l'Automobile (FIA). The FIA Formula One World Championship has been one of the world's premier forms of motorsport since its inaugural running in **1950** and is widely considered the pinnacle of motorsport.
+Formula One (F1) is the highest class of worldwide racing for open-wheel, single-seater formula racing cars, run by the Formula One Group and sanctioned by the Fédération Internationale de l'Automobile (FIA). The FIA Formula One World Championship has been one of the world's premier forms of motorsport since its inaugural running in **1950** and is often considered the pinnacle of motorsport.
 
-The word *formula* in the name refers to the strict set of rules all participant cars must follow. A Formula One season consists of a series of races known as Grands Prix, held across multiple countries and continents on purpose-built circuits or closed road courses (street circuits).
+The word "formula" in the name refers to the set of rules all participant cars must follow. A Formula One season consists of a series of races known as Grands Prix, held in multiple countries and continents on either purpose-built circuits or closed roads (street circuits).
 
 ---
 
 ## History & Evolution
 
 ### The Founding Era (1950s)
-- The first FIA Formula One World Championship was held in **1950**, with Giuseppe Farina winning the inaugural Drivers' Championship.
-- Early F1 was defined by front-engine roadsters and aggressive, largely unregulated competition.
-- The 1950s saw rapid technological advancement and tragic safety consequences, prompting the first serious calls for regulation.
+- The FIA Formula One World Championship debuted in **1950**, making it one of the oldest and most prestigious motorsport series in the world.
+- Early F1 was defined by front-engine roadsters, and the sport quickly established itself as the premier class of international racing.
+- The points-scoring system was introduced early, determining two annual World Championships: one for drivers and one for constructors (teams).
 
-### The Golden Age & Modernization (1960s–1970s)
-- The 1960s introduced mid-engine car designs (pioneered by Colin Chapman's Lotus), which fundamentally transformed car architecture and handling.
+### The Mid-Engine Revolution (1960s)
+- **Colin Chapman's Lotus 25** introduced the monocoque chassis and mid-engine layout, fundamentally transforming car architecture and handling.
 - Aerodynamic devices like wings began appearing in the late 1960s, establishing downforce as a central performance factor.
-- The 1970s saw the rise of sponsorship, commercial expansion, and the emergence of iconic drivers (Jackie Stewart, Niki Lauda, James Hunt, Mario Andretti).
-- **1979**: The FIA introduced the first Concorde Agreement, establishing a stable commercial framework.
+- The **Ford Cosworth DFV V8** debuted in 1967 and went on to win **155 Grands Prix** — the most successful engine in F1 history.
 
-### The Turbo Era (1977–1988)
-- Renault pioneered turbocharged engines in F1 in 1977; by the early 1980s, turbo engines dominated.
-- At their peak, turbo engines produced well over **1,000 horsepower** in qualifying trim.
-- The era was marked by dramatic races, legendary rivalries (Senna vs. Piquet), and increasing danger (the 1994 San Marino weekend remains a watershed moment).
-- **1989**: The FIA banned turbos, forcing a return to naturally aspirated engines.
+### The Aerodynamic Age & Turbo Wars (1968–1988)
+- Wings and ground-effect tunnels became central to car design, with downforce enabling unprecedented cornering speeds.
+- **Renault pioneered turbocharged engines in 1977**; by the early 1980s, turbo engines dominated, producing well over **1,000 horsepower** in qualifying trim.
+- The era was marked by dramatic races and legendary rivalries — **Senna vs. Piquet, Senna vs. Prost**.
+- **1988**: Senna's legendary Monaco qualifying lap; McLaren-Honda dominance peaked.
 
-### The V8 & V10 Naturally Aspirated Era (1989–2005)
-- Naturally aspirated engines returned, with displacement limits eventually settling at 3.0L.
-- The 1990s featured intense rivalry between Senna, Prost, Schumacher, and Hakkinen.
+### The Electronic Aids Era & Post-1994 Reform (1989–2000s)
+- Electronic driver aids — **traction control, launch control, active suspension, semi-automatic gearboxes** — transformed car performance.
+- **1994**: The tragic deaths of **Ayrton Senna** and **Roland Ratzenberger** at Imola led to a massive safety overhaul and the **first ban on electronic driver aids**, returning driver skill to prominence.
 - **Michael Schumacher's** dominance with Ferrari (2000–2004) reshaped the sport's competitive landscape.
-- **1994**: Traction control, launch control, and other electronic driving aids were **first banned** — ushering in a driver-skill era.
-
-### The V8 Era & Digital Aids Return (2006–2013)
-- Engines were reduced to 2.4L V8s in 2006.
-- **2001**: Electronic driving aids were **briefly reintroduced** (traction control, launch control).
-- **2004 & 2008**: These aids were **banned once more**, re-emphasizing driver talent.
-- **2009**: Major aerodynamic rule overhauls introduced larger front wings, diffuser restrictions, and KERS (Kinetic Energy Recovery Systems).
+- **2005**: Michelin tire controversy at Indianapolis — only 6 cars raced, exposing tire supplier conflicts.
 
 ### The Hybrid Turbo Era (2014–2025)
-- **2014**: The current turbo-hybrid 1.6L V6 engine formula was introduced, featuring MGU-K (motor generator unit — kinetic) and MGU-H (motor generator unit — heat) energy recovery systems.
-- This era has been dominated by **Mercedes** (2014–2020) and **Red Bull Racing** (2021–2025).
-- **Lewis Hamilton** won a record **seven** World Championships (2008, 2014–2015, 2017–2019, 2020), surpassing Michael Schumacher's five.
+- A major rule change in **2014** replaced the 2.4L V8 engines with **1.6L V6 turbo-hybrid power units**, incorporating energy recovery systems (MGU-K and MGU-H).
+- **Mercedes** dominated from 2014–2020; **Red Bull Racing** took over dominance from 2021–2025.
+- **Lewis Hamilton** won a record **seven** World Championships, surpassing Michael Schumacher's five.
 - **Max Verstappen** became the youngest champion in 2021 and continued dominance through 2025.
 
 ### The 2026 Regulation Revolution
@@ -81,11 +74,11 @@ The word *formula* in the name refers to the strict set of rules all participant
 ## Landmark Eras
 
 1. **The Founding Era (1950–1959)** — Open-roadsters, minimal rules, the birth of the World Championship.
-2. **The Mid-Engine Revolution (1960s)** — Colin Chapman's Lotus 25 transforms car design.
+2. **The Mid-Engine Revolution (1960s)** — Colin Chapman's Lotus 25 transforms car design; DFV engine dominates.
 3. **The Aerodynamic Age (1968–1982)** — Wings, downforce, and the rise of ground effect.
 4. **The Turbo Wars (1977–1988)** — Turbocharged engines produce over 1,000 HP; Senna vs. Piquet.
-5. **The Electronic AIDs Battles (1989–2008)** — Ban, reintroduction, and re-ban of driver aids.
-6. **The Hybrid Era (2014–2025)** — 1.6L turbo-hybrids; energy recovery defines performance.
+5. **The Electronic Aids Battles (1989–2008)** — Ban, reintroduction, and re-ban of driver aids.
+6. **The Hybrid Era (2014–2025)** — 1.6L turbo-hybrids; energy recovery defines performance; Hamilton's record 7 titles.
 7. **The 2026 Reset** — New regulations, cost cap enforcement, and commercial expansion.
 
 ---
@@ -115,7 +108,7 @@ The word *formula* in the name refers to the strict set of rules all participant
 - **2017–2018**: Hamilton dominates; Vettel's Ferrari challenge falls short.
 - **2020**: Hamilton ties Schumacher's 7-win record in a season.
 - **2021**: Verstappen wins first title in dramatic season finale; Hamilton denied 8th title on final lap.
-- **2022**: Ground-effect cars return; Verstappen dominant; Leclerc and Red Bull clash.
+- **2022**: Ground-effect cars return; Verstappen dominant.
 - **2023–2025**: Verstappen/Red Bull continued dominance; new engine regulations for 2026 announced.
 - **2017**: Liberty Media acquires commercial rights for **$8 billion** from Bernie Ecclestone — ushers in new commercial era.
 
@@ -132,8 +125,23 @@ The word *formula* in the name refers to the strict set of rules all participant
 
 ---
 
-## Sources
+## Technical Pillars
 
-- Wikipedia: "Formula One" — https://en.wikipedia.org/wiki/Formula_One
-- Formula1.com official regulations archive
-- FIA official technical regulations
+F1 cars depend on:
+- **Electronics** — hybrid power unit management, energy recovery systems
+- **Aerodynamics** — wings, diffusers, and ground-effect tunnels
+- **Suspension** — complex multi-link systems optimized for circuit-specific conditions
+- **Tyres** — supplied exclusively by Pirelli; compound choices are strategic
+
+---
+
+## Commercial Landscape
+
+- **Bernie Ecclestone** controlled F1's commercial rights for decades before **Liberty Media** acquired them in **2017**.
+- Liberty Media added five new Grands Prix to the calendar: **Miami, Las Vegas, Saudi Arabia, Qatar, and the Netherlands**.
+- The **cost cap** was introduced to level the playing field; as of 2026 it stands at **US$215 million**, though actual costs often exceed this due to exclusions.
+- F1's financial and political battles are widely reported and have become a defining feature of the sport's modern era.
+
+---
+
+*Sources: Wikipedia — Formula One; FIA official technical regulations; Formula1.com*
