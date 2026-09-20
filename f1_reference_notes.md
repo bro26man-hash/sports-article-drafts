@@ -6,7 +6,7 @@
 
 ## Overview
 
-Formula One (F1) is the highest class of worldwide racing for open-wheel, single-seater formula racing cars, run by the Formula One Group and sanctioned by the Fédération Internationale de l'Automobile (FIA). The FIA Formula One World Championship has been one of the world's premier forms of motorsport since its inaugural running in **1950** and is widely considered the pinnacle of motorsport.
+Formula One (F1) is the highest class of worldwide racing for open-wheel, single-seater formula racing cars, run by the Formula One Group and sanctioned by the Federation Internationale de l'Automobile (FIA). The FIA Formula One World Championship has been one of the world's premier forms of motorsport since its inaugural running in **1950** and is widely considered the pinnacle of motorsport.
 
 The word "formula" in the name refers to the set of rules all participant cars must follow. A Formula One season consists of a series of races known as Grands Prix, held in multiple countries on purpose-built circuits or closed roads (street circuits).
 
@@ -285,6 +285,28 @@ Formula One cars are the world's fastest regulated road-course racing cars, owin
 | **Lewis Hamilton** | 2000s–2020s | **7 titles**; **first Black F1 champion**; most race wins; 7 titles tied with Schumacher |
 | **Sebastian Vettel** | 2010s | **4 consecutive titles** (2010–13); youngest champion at the time (2010) |
 | **Max Verstappen** | 2020s | **Youngest race winner** (age 18, 2016); **2021, 2022, 2023 champion**; Red Bull dominance |
+
+---
+
+## Notable Records & Statistics
+
+| Record | Holder | Detail |
+|--------|--------|--------|
+| Most World Drivers' Championships | Michael Schumacher & Lewis Hamilton | **7 each** (tied) |
+| Most Grand Prix wins | Michael Schumacher & Lewis Hamilton | **91** and **105+** respectively |
+| Most consecutive Drivers' Championships | Michael Schumacher | **5** (2000–2004) |
+| Most Constructors' Championships | Ferrari | **16** |
+| Most races entered | Fernando Alonso | **390+** |
+| Youngest race winner | Max Verstappen | **18 years 228 days** (2016 Spanish GP) |
+| Youngest World Champion | Max Verstappen | **18 years 228 days** (2021) |
+| Only posthumous World Champion | Jochen Rindt | **1970 Italian GP fatality**; points total not surpassed with 4 races remaining |
+| Only woman to score F1 points | Lella Lombardi | **0.5 points** (1975 Spanish GP, half-points awarded due to incomplete race distance) |
+| Only woman to win an F1 race | Desiré Wilson | **1980 Aurora AFX F1 Championship** (non-championship event) |
+| Highest winning percentage (driver) | Juan Manuel Fangio | **24/52 = 46.2%** |
+| Closest championship margin | Niki Lauda over Alain Prost | **0.5 points** (1984) |
+| Most wins in a single season (driver) | Max Verstappen | **19 of 22** (2023, 86.4%) |
+| Most wins in a single season (constructor) | Red Bull Racing | **21 of 22** (2023, 95.5%) — broke McLaren's 1988 record of 15/16 |
+| Most consecutive Constructors' titles | Mercedes | **8** (2014–2021) |
 
 ---
 
