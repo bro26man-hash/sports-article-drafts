@@ -1,6 +1,6 @@
 # Formula One — Reference Notes
 
-*Compiled for background research on a sports writing piece covering Formula 1 racing. Sourced from Wikipedia's Formula One article, section-by-section analysis, and key-fact extraction.*
+*Compiled for background research on a sports writing piece covering Formula 1 racing. Sourced from Wikipedia's Formula One article, with focused analysis of history, evolution, major rule changes, landmark eras, and important historical milestones.*
 
 ---
 
@@ -133,7 +133,7 @@ Formula One cars are the world's fastest regulated road-course racing cars, owin
 - **1997**: **Jacques Villeneuve** won the title; Schumacher was **stripped of 2nd place** after deliberately trying to run Villeneuve off the road at the final race.
 - **1998**: **Mika Häkkinen** (McLaren-Mercedes) won the title.
 - **1999**: **Häkkinen** again; Eddie Irvine lost by only **2 points**. Ferrari won its first Constructors' title since 1983.
-- The **era of small private teams ended**: Lotus, Brabham, Ligier, Tyrrell, and many others vanished. Only **Jordan, Sauber, Arrows, and Minardi** survived.
+- **The era of small private teams ended**: Lotus, Brabham, Ligier, Tyrrell, and many others vanished. Only **Jordan, Sauber, Arrows, and Minardi** survived.
 - **Team orders**, legal since 1950, were **banned in 2002** after controversial incidents (notably Ferrari's manipulation at the 2002 Austrian Grand Prix).
 
 ### The Modern Era, Hybrid Revolution & New Competition (2000–Present)
@@ -201,7 +201,7 @@ Formula One cars are the world's fastest regulated road-course racing cars, owin
 | **2020** | **$145 million budget cap** agreed; new **Concorde Agreement** (through 2025); COVID-19 delays; 2021 regs pushed to 2022 |
 | **2021** | Closest title fight in history; **Verstappen** over **Hamilton** on final lap; **Sprint qualifying** introduced |
 | **2022** | **Ground effects reintroduced**; major aero overhaul; **18-inch wheels**; low-profile tyres; token system for restricted parts |
-| **2026** | **Cost cap restructured to $215M**; separate **$130M Power Unit Cost Cap**; **Cadillac joins as 11th team**; **Audi takes over Sauber**; engine hybrid ratio shifts (53/47 → 58/42 in 2027 → 60/40 by 2028) |
+| **2026** | **Cost cap restructured to $215M**; separate **$130M Power Unit Cost Cap**; **Cadillac joins as 11th team**; **Audi takes over Sauber**; engine hybrid ratio shifts (53/47 → 58/42 → 60/40) |
 
 ---
 
@@ -270,22 +270,6 @@ Formula One cars are the world's fastest regulated road-course racing cars, owin
 
 ---
 
-## Current State of the Sport (2026)
-
-- **Cost Cap**: **$215 million** operational base limit (restructured from $135M); separate **$130M Power Unit Cost Cap**.
-- **Calendar**: **24 races** (record) including new additions like **Miami, Las Vegas, Saudi Arabia, Qatar, and Dutch GPs** under Liberty Media.
-- **Power Units**: **1.6L turbocharged hybrids**; shifting engine-to-hybrid ratio from 53/47 toward **58/42 in 2027** and **60/40 by 2028**; increasing max internal combustion output up to 450kW.
-- **Teams**: **11 teams** (10 current + Cadillac approval for 2026); **10 of 11** have bases in the UK (**"Motorsport Valley", Oxfordshire**); **Ferrari** is the only team entirely based in **Italy (Maranello)**.
-- **Tyres**: **Pirelli** (sole supplier since 2007); **18-inch wheels** with **low-profile tyres** (since 2022); 13 sets of dry-weather tyres, 3 sets of wet-weather, and 4 sets of intermediate tyres per race weekend.
-- **Champions**: **Michael Schumacher** and **Lewis Hamilton** share the record with **7 World Championships each**. As of 2025, a total of **35 separate drivers** have won the World Drivers' Championship.
-- **Commercial Rights**: Held by **Liberty Media Corporation** (acquired 2017 for ~$8 billion), previously controlled by **Bernie Ecclestone**.
-- **Ground Effects**: **Reintroduced** in 2022 to promote closer racing; cars generate downforce through **underbody tunnels** rather than traditional wings; a downforce of **2.5 times the car's weight** can be achieved at full speed.
-- **Safety**: **Virtual Safety Car (VSC)** introduced in 2015 (first used at Monaco) following the Bianchi crash investigation; **Halo** head protection system; no driver death from track injuries for 20 years after Senna (1994–2014), ended by Jules Bianchi's injuries from the 2014 Japanese GP recovery vehicle collision.
-- **Sustainability**: F1's plan to become **carbon neutral by 2030**; **E10 fuel** (10% bio-component) from 2021; development of **100% sustainable fuel** for 2025/2026; all events to be "sustainable" by 2025.
-- **Social Initiatives**: **#WeRaceAsOne** initiative (2020); F1 Academy for female drivers (established 2022); Mercedes' **Accelerate 25** programme for diversity.
-
----
-
 ## Key Figures in F1 History
 
 | Driver | Era | Achievement |
@@ -301,6 +285,22 @@ Formula One cars are the world's fastest regulated road-course racing cars, owin
 | **Lewis Hamilton** | 2000s–2020s | **7 titles**; **first Black F1 champion**; most race wins; 7 titles tied with Schumacher |
 | **Sebastian Vettel** | 2010s | **4 consecutive titles** (2010–13); youngest champion at the time (2010) |
 | **Max Verstappen** | 2020s | **Youngest race winner** (age 18, 2016); **2021, 2022, 2023 champion**; Red Bull dominance |
+
+---
+
+## Current State of the Sport (2026)
+
+- **Cost Cap**: **$215 million** operational base limit (restructured from $135M); separate **$130M Power Unit Cost Cap**.
+- **Calendar**: **24 races** (record) including new additions like **Miami, Las Vegas, Saudi Arabia, Qatar, and Dutch GPs** under Liberty Media.
+- **Power Units**: **1.6L turbocharged hybrids**; shifting engine-to-hybrid ratio from 53/47 toward **58/42 in 2027** and **60/40 by 2028**; increasing max internal combustion output up to 450kW.
+- **Teams**: **11 teams** (10 current + Cadillac approval for 2026); **10 of 11** have bases in the UK (**"Motorsport Valley", Oxfordshire**); **Ferrari** is the only team entirely based in **Italy (Maranello)**.
+- **Tyres**: **Pirelli** (sole supplier since 2007); **18-inch wheels** with **low-profile tyres** (since 2022); 13 sets of dry-weather tyres, 3 sets of wet-weather, and 4 sets of intermediate tyres per race weekend.
+- **Champions**: **Michael Schumacher** and **Lewis Hamilton** share the record with **7 World Championships each**. As of 2025, a total of **35 separate drivers** have won the World Drivers' Championship.
+- **Commercial Rights**: Held by **Liberty Media Corporation** (acquired 2017 for ~$8 billion), previously controlled by **Bernie Ecclestone**.
+- **Ground Effects**: **Reintroduced** in 2022 to promote closer racing; cars generate downforce through **underbody tunnels** rather than traditional wings; a downforce of **2.5 times the car's weight** can be achieved at full speed.
+- **Safety**: **Virtual Safety Car (VSC)** introduced in 2015 (first used at Monaco) following the Bianchi crash investigation; **Halo** head protection system; no driver death from track injuries for 20 years after Senna (1994–2014), ended by Jules Bianchi's injuries from the 2014 Japanese GP recovery vehicle collision.
+- **Sustainability**: F1's plan to become **carbon neutral by 2030**; **E10 fuel** (10% bio-component) from 2021; development of **100% sustainable fuel** for 2025/2026; all events to be "sustainable" by 2025.
+- **Social Initiatives**: **#WeRaceAsOne** initiative (2020); F1 Academy for female drivers (established 2022); Mercedes' **Accelerate 25** programme for diversity.
 
 ---
 
